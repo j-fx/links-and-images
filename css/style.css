@@ -1,0 +1,27 @@
+/* background color */
+.bg-color {
+  background-color: lightblue;
+}
+
+/* text color and font size */
+a {
+  color: rgb(172, 126, 2);
+  font-size: large;
+}
+
+/* font family */
+* {
+  font-family: "Times New Roman", Times, serif;
+}
+
+/* font sizes */
+.h1 {
+  font-size: xx-large;
+}
+
+/* img borders */
+img {
+  border: 4px solid rgb(151, 182, 183);
+  border-radius: 5%;
+  width: 800px;
+}
